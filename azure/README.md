@@ -1,9 +1,3 @@
-+++
-title = "Install Kubeflow"
-description = "Instructions for deploying Kubeflow"
-weight = 4
-                    
-+++
 This guide describes how to use the kfctl binary to
 deploy Kubeflow on Azure.
 

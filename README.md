@@ -12,3 +12,6 @@ Kubeflow is an open-source project designed to exploit the advantages of k8s in 
 
 As you can see Kubeflow itself doesn't do the machine learning, but it provides a framework in which to run it on k8s. For this, I'll be using [PyTorch](https://pytorch.org) to demonstrate.
 
+### Current issues:
+
+- Doing this on a Windows machine isn't worth the effort. Linux or MacOS is recommended.

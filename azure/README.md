@@ -62,7 +62,7 @@ Create a resource group:
 Example variables:
 
 - `RESOURCE_GROUP_NAME=KubeTest`
-- `LOCATION=westus`
+- `LOCATION=australiaeast`
 
 Create a specifically defined cluster:
   
